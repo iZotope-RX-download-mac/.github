@@ -59,7 +59,7 @@ iZotope RX is an award-winning audio editor and repair toolkit offering intellig
 
 ## 🖼 Preview
 
-![iZotope RX Screenshot 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5AOBD4U17c26Up_oiKL3mYhvdOweMajmOQ&s)  
+![iZotope RX Screenshot 1](https://www.izotope.com/storage-cms/images/8/7/6/8/238678-1-eng-GB/f309db4d7924-rx-8-std.png)  
 ![iZotope RX Screenshot 2](https://i.ytimg.com/vi/IVE9BcXm3Vo/maxresdefault.jpg)
 
 ---
